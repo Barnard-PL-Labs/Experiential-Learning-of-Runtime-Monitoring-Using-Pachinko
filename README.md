@@ -32,31 +32,15 @@ This work showcases how formal methods can be taught in a hands-on, project-base
 
 ---
 
-## Photos
+# Ball logger and monitor ESP32
 
-<!--
-  Add image files to your repo (e.g. an images/ folder), then update the paths
-  and alt text below. Example paths: images/board-front.jpg
--->
-
-### Example Board
-
-![Pachinko board — overview](<Pachinko Board Images/Pachinko Example Top.png>)
-
-*Caption: [Edit this caption]*
-
-### Ball logger and monitor ESP32
-
-![Ball logger and central monitor ESP32](images/PLACEHOLDER-ball-logger.jpg)
+![Pachinko board — overview](<Pachinko Board Images/Pachinko Example Bottom.jpg>)
 
 *Caption: [Edit this caption]*
 
 ### Student projects
 
-| | |
-|:---:|:---:|
-| ![Student board 1](images/PLACEHOLDER-student-board-1.jpg) | ![Student board 2](images/PLACEHOLDER-student-board-2.jpg) |
-| *Caption 1* | *Caption 2* |
+![Student board 1](<Pachinko Board Images/Student Pachinko Boards.png>)
 
 ---
 
